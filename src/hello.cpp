@@ -14,9 +14,7 @@
 
 #include <linux/can.h>
 #include <linux/can/raw.h>
-// int main(int argc, char *argv[])
-// {
-//    std::cout << "Hello CMake!" << std::endl;
+
 struct can_frame rxframe;
 
 int rxCounter = 0;
