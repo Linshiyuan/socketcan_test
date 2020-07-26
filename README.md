@@ -6,4 +6,4 @@ cmake ..
 make 
 ./hello 
 ```
-配置clnag 参考 [vscode_clang](./vscode_clang.md)
+配置clang 参考 [vscode_clang](./vscode_clang.md)
